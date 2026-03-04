@@ -3,20 +3,20 @@
 		{
 			"language": "PT",
 			"icon": "https://easyremoteappassets.blob.core.windows.net/icons/flags_language/flag_brasil.png",
-			"url": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/ambev_agudos/ambev_agudos_IntegracaoPortugues.mp4?sp=r&st=2023-04-20T18:57:07Z&se=2223-04-21T02:57:07Z&spr=https&sv=2021-12-02&sr=b&sig=lvPNa4mZbDOMyR76%2FyTPUO5vncpUX%2FqVAm4piM3ISno%3D",
-			"urlQuiz": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/ambev_agudos/ambev-quiz.json?sp=r&st=2024-04-16T17:17:51Z&se=2224-04-17T01:17:51Z&spr=https&sv=2022-11-02&sr=b&sig=zmtViph6gHsED4%2FujWmSqJwokPVmOmFABdWL8wn9xx0%3D"
+			"url": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/halliburton/halli.mp4?sp=r&st=2025-12-26T13:02:19Z&se=2125-12-26T21:17:19Z&spr=https&sv=2024-11-04&sr=b&sig=aIjxMa3WsUzgZbvgrzBZd8exbwV%2B3r7lXuC%2BpsMWujc%3D",
+			"urlQuiz": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/halliburton/quiz_es.json?sp=r&st=2025-12-26T13:59:45Z&se=2125-12-26T22:14:45Z&spr=https&sv=2024-11-04&sr=b&sig=owneIqQYvJiBq30yoMTiWTJMaVVRBJPcGPkpEZEzLtk%3D"
 		},
 		{
 			"language": "EN",
 			"icon": "https://easyremoteappassets.blob.core.windows.net/icons/flags_language/flag_English.png",
-			"url": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/ambev_agudos/ambev_agudos_IntegracaoIngles.mp4?sp=r&st=2023-04-20T18:56:23Z&se=2223-04-21T02:56:23Z&spr=https&sv=2021-12-02&sr=b&sig=Y3ErleB5PjsVmrTWXGJR738U7B9E%2FyZU9G8Sw3YXAKw%3D",
-			"urlQuiz": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/ambev_agudos/ambev-quiz.json?sp=r&st=2024-04-16T17:17:51Z&se=2224-04-17T01:17:51Z&spr=https&sv=2022-11-02&sr=b&sig=zmtViph6gHsED4%2FujWmSqJwokPVmOmFABdWL8wn9xx0%3D"
+			"url": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/halliburton/halli.mp4?sp=r&st=2025-12-26T13:02:19Z&se=2125-12-26T21:17:19Z&spr=https&sv=2024-11-04&sr=b&sig=aIjxMa3WsUzgZbvgrzBZd8exbwV%2B3r7lXuC%2BpsMWujc%3D",
+			"urlQuiz": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/halliburton/quiz_es.json?sp=r&st=2025-12-26T13:59:45Z&se=2125-12-26T22:14:45Z&spr=https&sv=2024-11-04&sr=b&sig=owneIqQYvJiBq30yoMTiWTJMaVVRBJPcGPkpEZEzLtk%3D"
 		},
 		{
 			"language": "ES",
 			"icon": "https://easyremoteappassets.blob.core.windows.net/icons/flags_language/flag_spanish.png",
-			"url": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/ambev_agudos/ambev_agudos_IntegracaoEspanhol.mp4?sp=r&st=2023-04-20T18:55:42Z&se=2223-04-21T02:55:42Z&spr=https&sv=2021-12-02&sr=b&sig=X6z6HNMpiwJFaphD2qe7sUZ9kfLAWbZB1fH1QCtRXqg%3D",
-			"urlQuiz": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/ambev_agudos/ambev-quiz.json?sp=r&st=2024-04-16T17:17:51Z&se=2224-04-17T01:17:51Z&spr=https&sv=2022-11-02&sr=b&sig=zmtViph6gHsED4%2FujWmSqJwokPVmOmFABdWL8wn9xx0%3D"
+			"url": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/halliburton/halli.mp4?sp=r&st=2025-12-26T13:02:19Z&se=2125-12-26T21:17:19Z&spr=https&sv=2024-11-04&sr=b&sig=aIjxMa3WsUzgZbvgrzBZd8exbwV%2B3r7lXuC%2BpsMWujc%3D",
+			"urlQuiz": "https://easyremoteappassets.blob.core.windows.net/welcome-videos/halliburton/quiz_es.json?sp=r&st=2025-12-26T13:59:45Z&se=2125-12-26T22:14:45Z&spr=https&sv=2024-11-04&sr=b&sig=owneIqQYvJiBq30yoMTiWTJMaVVRBJPcGPkpEZEzLtk%3D"
 		}
 	]
 }
